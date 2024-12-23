@@ -1,0 +1,25 @@
+/* Write your code here. */
+/*.eachEmoji-container {
+  height: 180px;
+  width: 180px;
+  border: 1px solid #ffffff33;
+  background-color: #ffffff33;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}*/
+.emoji-size {
+  height: 100px;
+  width: 100px;
+}
+.eachemoji-list {
+  list-style-type: none;
+  margin: 10px;
+   height: 180px;
+  width: 180px;
+  border: 1px solid #ffffff33;
+  background-color: #ffffff33;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}

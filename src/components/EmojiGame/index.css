@@ -1,0 +1,16 @@
+/* Write your code here. */
+
+.bg-container {
+  height: 100vh;
+  background-image: linear-gradient(to top, #fbc7d4, #9796f0);
+  background-size: cover;
+ 
+}
+.unorder-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+ margin-top: 100px;
+  flex-wrap: wrap;
+}
